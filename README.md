@@ -40,7 +40,9 @@ What would be the effect of keeping the branches alive longer, and making more a
 GitHub Flow
 https://guides.github.com/introduction/flow/
 
+## Stakeholders
 
+Charreau Bell, co-instructor
 
 Resources
 GH Flow:
