@@ -44,6 +44,9 @@ https://guides.github.com/introduction/flow/
 
 Charreau Bell, co-instructor
 
+Jesse Spencer-Smith, co-instructor
+
+
 Resources
 GH Flow:
 https://guides.github.com/introduction/flow/
